@@ -1,0 +1,6 @@
+C:\Users\Srx\Desktop\Projekat\Program\bin\Debug\Program.exe.config
+C:\Users\Srx\Desktop\Projekat\Program\bin\Debug\Program.exe
+C:\Users\Srx\Desktop\Projekat\Program\bin\Debug\Program.pdb
+C:\Users\Srx\Desktop\Projekat\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\Srx\Desktop\Projekat\Program\obj\Debug\Program.exe
+C:\Users\Srx\Desktop\Projekat\Program\obj\Debug\Program.pdb

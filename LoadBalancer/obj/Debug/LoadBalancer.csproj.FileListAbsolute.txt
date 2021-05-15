@@ -1,0 +1,6 @@
+C:\Users\Srx\Desktop\Projekat\LoadBalancer\bin\Debug\LoadBalancer.dll
+C:\Users\Srx\Desktop\Projekat\LoadBalancer\bin\Debug\LoadBalancer.pdb
+C:\Users\Srx\Desktop\Projekat\LoadBalancer\obj\Debug\LoadBalancer.csprojAssemblyReference.cache
+C:\Users\Srx\Desktop\Projekat\LoadBalancer\obj\Debug\LoadBalancer.csproj.CoreCompileInputs.cache
+C:\Users\Srx\Desktop\Projekat\LoadBalancer\obj\Debug\LoadBalancer.dll
+C:\Users\Srx\Desktop\Projekat\LoadBalancer\obj\Debug\LoadBalancer.pdb

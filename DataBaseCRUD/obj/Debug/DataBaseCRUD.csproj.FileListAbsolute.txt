@@ -1,0 +1,6 @@
+C:\Users\Srx\Desktop\Projekat\DataBaseCRUD\bin\Debug\DataBaseCRUD.dll
+C:\Users\Srx\Desktop\Projekat\DataBaseCRUD\bin\Debug\DataBaseCRUD.pdb
+C:\Users\Srx\Desktop\Projekat\DataBaseCRUD\obj\Debug\DataBaseCRUD.csprojAssemblyReference.cache
+C:\Users\Srx\Desktop\Projekat\DataBaseCRUD\obj\Debug\DataBaseCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Srx\Desktop\Projekat\DataBaseCRUD\obj\Debug\DataBaseCRUD.dll
+C:\Users\Srx\Desktop\Projekat\DataBaseCRUD\obj\Debug\DataBaseCRUD.pdb

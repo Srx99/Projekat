@@ -1,0 +1,6 @@
+C:\Users\Srx\Desktop\Projekat\Worker\bin\Debug\Worker.dll
+C:\Users\Srx\Desktop\Projekat\Worker\bin\Debug\Worker.pdb
+C:\Users\Srx\Desktop\Projekat\Worker\obj\Debug\Worker.csprojAssemblyReference.cache
+C:\Users\Srx\Desktop\Projekat\Worker\obj\Debug\Worker.csproj.CoreCompileInputs.cache
+C:\Users\Srx\Desktop\Projekat\Worker\obj\Debug\Worker.dll
+C:\Users\Srx\Desktop\Projekat\Worker\obj\Debug\Worker.pdb

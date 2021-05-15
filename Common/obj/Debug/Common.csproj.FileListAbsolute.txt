@@ -1,0 +1,5 @@
+C:\Users\Srx\Desktop\Projekat\Common\bin\Debug\Common.dll
+C:\Users\Srx\Desktop\Projekat\Common\bin\Debug\Common.pdb
+C:\Users\Srx\Desktop\Projekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Srx\Desktop\Projekat\Common\obj\Debug\Common.dll
+C:\Users\Srx\Desktop\Projekat\Common\obj\Debug\Common.pdb
